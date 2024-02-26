@@ -1,7 +1,7 @@
 # mininet
 working with mininet and create custom topology
 before going to resolve the problem make an custome topology as per our requirement 
-# codde for custom topology
+# code for custom topology
 from mininet.topo import Topo
 
 class MyTopo(Topo):
