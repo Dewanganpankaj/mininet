@@ -48,3 +48,6 @@ topos = {'MyTopo': (lambda: MyTopo())}
          
         // add custom topology 
         sudo mn --custom custom_topology.py --topo mytopo --controller remote,ip=127.0.0.1,port=6633
+
+
+# Using mininet we implement SDN enable switch 
